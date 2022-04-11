@@ -1,0 +1,22 @@
+{
+  "name": "myfirst-web-master",
+  "version": "1.0.0",
+  "description": "College project, Bootstrap one page template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdulWahabAchakzai/Bootstrap-Template.git"
+  },
+  "author": "Ab. Wahab Achakzai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdulWahabAchakzai/Bootstrap-Template/issues"
+  },
+  "homepage": "https://github.com/AbdulWahabAchakzai/Bootstrap-Template#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
