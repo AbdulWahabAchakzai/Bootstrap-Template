@@ -4,7 +4,7 @@ College project, one-page bootstrap template.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [npm](https://www.npmjs.com/) to install packages.
 
 ```bash
 npm i
